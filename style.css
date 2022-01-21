@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.kitchen {
+    font-size: 18px;
+    border-radius: 45px;
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-width: 2px;
+    width: 100px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
